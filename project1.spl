@@ -1,0 +1,12 @@
+[Inputs]
+clk
+partC
+partD
+=partA[3:0]=
+=partB[3:0]=
+[Outputs]
+=partE[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel project1
+

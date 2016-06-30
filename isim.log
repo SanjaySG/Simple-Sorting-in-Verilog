@@ -1,0 +1,36 @@
+ISim log file
+Running: D:\CSE\Spring 2016\CSE 590 - Computer Architecture\Project\50170327\project1\test_project1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/CSE/Spring 2016/CSE 590 - Computer Architecture/Project/50170327/project1/test_project1_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 3000 ns
+Simulator is doing circuit initialization process.
+Inside the initial procedural block
+Finished circuit initialization process.
+Inside the input always block
+Exiting the input always block
+Inside the input always block
+Exiting the input always block
+Inside the input always block
+Exiting the input always block
+Inside the input always block
+Exiting the input always block
+Inside the sorting always block
+The unsorted numbers are :10  5 14  6
+Inside the sorting outer for loop with i = 0
+Inside the sorting inner for loop with j = 0
+Inside the sorting inner for loop with j = 1
+Inside the sorting inner for loop with j = 2
+Inside the sorting outer for loop with i = 1
+Inside the sorting inner for loop with j = 0
+Inside the sorting inner for loop with j = 1
+Inside the sorting outer for loop with i = 2
+Inside the sorting inner for loop with j = 0
+The sorted numbers are : 5  6 10 14
+Exiting the sorting always block
+Inside the output always block

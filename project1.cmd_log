@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {D:/CSE/Spring 2016/CSE 590 - Computer Architecture/Project/50170327/project1/project1.v} -lang verilog -prj project1 -o project1.spl -module project1 -template E:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e project1.spl {D:/CSE/Spring 2016/CSE 590 - Computer Architecture/Project/50170327/project1/project1.sym} 

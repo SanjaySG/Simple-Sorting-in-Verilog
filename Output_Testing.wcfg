@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/Xilinx Workspace/00000000/project1/test_project1_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test_project1" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/test_project1/partE" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">partE[3:0]</obj_property>
+      <obj_property name="ObjectShortName">partE[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_project1/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_project1/partA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">partA[3:0]</obj_property>
+      <obj_property name="ObjectShortName">partA[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_project1/partB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">partB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">partB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_project1/partC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">partC</obj_property>
+      <obj_property name="ObjectShortName">partC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_project1/partD" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">partD</obj_property>
+      <obj_property name="ObjectShortName">partD</obj_property>
+   </wvobject>
+</wave_config>
